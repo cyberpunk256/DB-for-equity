@@ -1,1 +1,1 @@
-# DB-for-equity
+# Database for equity info
